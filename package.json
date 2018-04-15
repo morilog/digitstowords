@@ -1,5 +1,5 @@
 {
-  "name": "digittoword",
+  "name": "digitstowords",
   "version": "1.0.0",
   "description": "Multilingual digits to words convertor",
   "main": "index.js",
